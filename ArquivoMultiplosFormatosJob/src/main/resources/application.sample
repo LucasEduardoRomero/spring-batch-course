@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:mysql://localhost:porta/banco_dados?useUnicode=true&characterEncoding=UTF-8&useTimezone=true&serverTimezone=UTC
+spring.datasource.username=user
+spring.datasource.password=senha
+spring.batch.initialize-schema=always
